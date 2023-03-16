@@ -6,12 +6,16 @@
 }
 .subsection.preview{
     color: blue;
-    font-size: 800%;
+    font-size: 200;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
 div  {
     color: brown;
-    font-weight: 500;
+    font-weight: 500%;
     font-size: 300;
+}
+.button{
+    color:  rebeccapurple;
+    font-variant: small-caps;    
 }
