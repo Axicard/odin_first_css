@@ -3,13 +3,10 @@
 }
 .subsection{
     color:  purple;
+    height: 50px;
 }
+.StartingProperties,
 .button {
-    color:  rebeccapurple;
-    font-variant: small-caps;
-    background-color: black;    
-}
-.StartingProperties {
     color: #1100ff;
     background-color: bisque;
 }
