@@ -4,18 +4,25 @@
 .subsection.header{
     color:  purple;
 }
-.subsection.preview{
+.subsection.preview {
     color: blue;
     font-size: 200;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
-div  {
-    color: brown;
-    font-weight: 500%;
-    font-size: 300;
-}
-.button{
+.button {
     color:  rebeccapurple;
-    font-variant: small-caps;    
+    font-variant: small-caps;
+    background-color: black;    
+}
+.StartingProperties {
+    color: #1100ff;
+    background-color: bisque;
+}
+#grandparent {
+    color: blueviolet;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+
 }
