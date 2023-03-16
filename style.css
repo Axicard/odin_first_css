@@ -1,4 +1,10 @@
-div 
-    {
-            color: white;
-    }
+.alert-text {
+    color: aqua;
+}
+.subsection.header{
+    color:  purple;
+}
+.subsection.preview {
+    color: blue;
+    font-size: 800%;
+}
