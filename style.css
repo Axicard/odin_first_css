@@ -1,14 +1,8 @@
 .alert-text {
     color: aqua;
 }
-.subsection.header{
+.subsection{
     color:  purple;
-}
-.subsection.preview {
-    color: blue;
-    font-size: 200;
-    font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
 }
 .button {
     color:  rebeccapurple;
